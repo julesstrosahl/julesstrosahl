@@ -1,4 +1,4 @@
-I am a Full Stack Software Engineer at DataChat Inc., where I use Python, JavaScript, Go, React.js, Redux, HTML, CSS, SQL, Linux, Git, and Docker.  I have been full-time here since December 2021, and was an intern here for over 2 years.
+I am a Full Stack Senior Software Engineer at DataChat Inc., where I use Python, JavaScript, Go, React.js, Redux, HTML, CSS, SQL, Linux, Git, and Docker.  I have been full-time here since December 2021, and was an intern here for over 2 years.
 
 Before DataChat, I interned as a Software Developer at Inflection Point Solutions, using C#, JavaScript, ASP.NET MVC, HTML, CSS, and SQL.  I was in that position for over 1 year.
 
